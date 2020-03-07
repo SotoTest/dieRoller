@@ -1,4 +1,4 @@
-class RollDie
-	def roll():
-		random.seed
-		random.randrange(1,6)
+import random
+class RollDie:
+	random.seed
+	print(random.randrange(1,6))
