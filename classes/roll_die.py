@@ -1,0 +1,3 @@
+class RollDie
+	def roll():
+		
